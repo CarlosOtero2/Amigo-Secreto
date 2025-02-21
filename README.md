@@ -9,7 +9,11 @@
 - **Interfaz sencilla**: Diseño intuitivo y fácil de usar.
 
 ## Capturas de pantalla 🖼️
+![Interfaz de la app](assets/Captura1.png)
 
+![Ingresando nombres](assets/Captura2.png)
+
+![Sorteo de amigo secreto](assets/Captura3.png)
 
 
 
@@ -19,3 +23,23 @@
    ```bash
    git clone https://github.com/CarlosOtero2/Amigo-Secreto.git
    cd Amigo-Secreto
+
+   Tecnologías utilizadas 🛠️
+HTML: Estructura de la aplicación.
+
+CSS: Estilos y diseño responsive.
+
+JavaScript: Lógica para agregar amigos y realizar el sorteo.
+
+Estructura del proyecto 📂
+challenge-amigo-secreto_esp-main/
+├── index.html          # Archivo principal de la aplicación
+├── style.css           # Estilos CSS
+├── app.js              # Lógica de la aplicación en JavaScript
+├── assets/             # Carpeta de imágenes y recursos
+│   ├── amigo-secreto.png
+│   ├── play_circle_outline.png
+│   └── screenshot1.png
+└── README.md           # Este archivo
+
+
